@@ -38,43 +38,45 @@ El proyecto utiliza una arquitectura moderna y escalable:
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,tailwind,nodejs,express,postgres,prisma,digitalocean,nginx&theme=dark" alt="Stack Tecnológico Animado" />
+    <img src="https://skillicons.dev/icons?i=react,tailwind,nodejs,express,postgres,prisma,nginx&theme=dark" alt="Stack Tecnológico" />
   </a>
-  <p>
-    <i>(React, Tailwind, Node.js, Express, PostgreSQL, Prisma, DigitalOcean + PM2)</i>
+  <br>
+  <p align="center">
+    <i>(React, Tailwind, Node.js, Express, PostgreSQL, Prisma, Nginx, DigitalOcean + PM2)</i>
   </p>
 </div>
+
 <br>
 
 <h2 align="center">📸 Vistazo al Sistema</h2>
 
 <div align="center">
-  <table width="100%">
+  <table width="100%" style="max-width: 900px; margin: auto; border: none;">
     <tr>
-      <td width="50%" align="center" valign="top">
+      <td width="50%" align="center" valign="top" style="border: none;">
         <p align="center"><b>💳 Punto de Venta Ágil</b></p>
         <p align="center">
-          <img src="assets/pos.gif" width="90%" alt="Demo POS" style="border-radius:10px;">
+          <img src="assets/pos.gif" width="95%" alt="Demo POS" style="border-radius:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
         </p>
       </td>
-      <td width="50%" align="center" valign="top">
+      <td width="50%" align="center" valign="top" style="border: none;">
         <p align="center"><b>🔧 Gestión de Taller</b></p>
         <p align="center">
-          <img src="assets/taller.gif" width="90%" alt="Demo Taller" style="border-radius:10px;">
+          <img src="assets/taller.gif" width="95%" alt="Demo Taller" style="border-radius:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
         </p>
       </td>
     </tr>
     <tr>
-      <td width="50%" align="center" valign="top">
+      <td width="50%" align="center" valign="top" style="border: none;">
         <p align="center"><b>🃏 Conciliación de Tarjetas</b></p>
         <p align="center">
-          <img src="assets/tarjetas.gif" width="90%" alt="Demo Tarjetas" style="border-radius:10px;">
+          <img src="assets/tarjetas.gif" width="95%" alt="Demo Tarjetas" style="border-radius:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
         </p>
       </td>
-      <td width="50%" align="center" valign="top">
+      <td width="50%" align="center" valign="top" style="border: none;">
         <p align="center"><b>⚙️ Configuración Admin</b></p>
         <p align="center">
-          <img src="assets/config.gif" width="90%" alt="Demo Config" style="border-radius:10px;">
+          <img src="assets/config.gif" width="95%" alt="Demo Config" style="border-radius:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
         </p>
       </td>
     </tr>
