@@ -66,30 +66,34 @@ El proyecto utiliza una arquitectura moderna y escalable:
   </a>
 </p>
 
-## 📸 Vistazo al Sistema
+<br>
 
-<table width="100%">
+<h2 align="center">📸 Vistazo al Sistema</h2>
+
+<table width="100%" style="border: none;">
   <tr>
-    <td width="50%">
+    <td width="50%" align="center" valign="top" style="border: none;">
       <p align="center"><b>💳 Punto de Venta Ágil</b></p>
-      <img src="https://github.com/user-attachments/assets/bdc647b3-0dbd-4d03-81eb-6ca6c1f64f63" style="border-radius:10px;" alt="POS">
+      <img src="https://github.com/user-attachments/assets/bdc647b3-0dbd-4d03-81eb-6ca6c1f64f63" style="border-radius:10px; width: 100%;" alt="POS">
     </td>
-    <td width="50%">
+    <td width="50%" align="center" valign="top" style="border: none;">
       <p align="center"><b>🔧 Gestión de Taller</b></p>
-      <img src="https://github.com/user-attachments/assets/566a7013-4206-476c-87f6-a316053857eb" style="border-radius:10px;" alt="Taller">
+      <img src="https://github.com/user-attachments/assets/566a7013-4206-476c-87f6-a316053857eb" style="border-radius:10px; width: 100%;" alt="Taller">
     </td>
   </tr>
   <tr>
-    <td width="50%">
+    <td width="50%" align="center" valign="top" style="border: none;">
       <p align="center"><b>🃏 Conciliación de Tarjetas</b></p>
-      <img src="https://github.com/user-attachments/assets/74676eb5-ad09-43ef-af3a-45317980f6c8" style="border-radius:10px;" alt="Tarjetas">
+      <img src="https://github.com/user-attachments/assets/74676eb5-ad09-43ef-af3a-45317980f6c8" style="border-radius:10px; width: 100%;" alt="Tarjetas">
     </td>
-    <td width="50%">
+    <td width="50%" align="center" valign="top" style="border: none;">
       <p align="center"><b>⚙️ Configuración Admin</b></p>
-      <img src="https://github.com/user-attachments/assets/1e5b5663-ddab-4d62-be91-707449cd0eb1" style="border-radius:10px;" alt="Config">
+      <img src="https://github.com/user-attachments/assets/1e5b5663-ddab-4d62-be91-707449cd0eb1" style="border-radius:10px; width: 100%;" alt="Config">
     </td>
   </tr>
 </table>
+
+<br>
 
 ## 📈 Próximos Pasos (Roadmap)
 
@@ -128,17 +132,18 @@ Requisitos: Node.js v18+ y PostgreSQL.
 
 ## 📬 Contacto / Licencia
 
-Este proyecto es un **software comercial propietario** desarrollado por **[Tu Nombre]**.
+Este proyecto es un **software comercial propietario** desarrollado por **Mario Ballester**.
 El código fuente aquí expuesto es solo con fines demostrativos (Showcase).
 
 Si te interesa adquirir una licencia de uso para tu negocio o solicitar una demo en vivo:
 
-* 📩 **Email:** mario_ballester@hotmail.com
-* 💼 **LinkedIn:** https://www.linkedin.com/in/marioballester10/
+* 📩 **Email:** [mario_ballester@hotmail.com](mailto:mario_ballester@hotmail.com)
+* 💼 **LinkedIn:** [Ver Perfil de LinkedIn](https://www.linkedin.com/in/marioballester10/)
 
 &copy; 2026 Bester POS. Todos los derechos reservados.
+
+<br>
 
 <p align="center">Desarrollado con ❤️ para la optimización de negocios tecnológicos.</p>
 
 <p align="center"><b>Bester Servicio Técnico y Soluciones Digitales a medida</b> - Corrientes, Argentina 2025</p>
-
