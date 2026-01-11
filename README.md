@@ -76,13 +76,13 @@ El proyecto utiliza una arquitectura moderna y escalable:
       <td width="50%" align="center" valign="top">
         <p align="center"><b>💳 Punto de Venta Ágil</b></p>
         <p align="center">
-          <img src="https://github.com/user-attachments/assets/bdc647b3-0dbd-4d03-81eb-6ca6c1f64f63" width="90%" alt="POS" style="border-radius:10px;">
+          <img src="assets/pos.gif" width="90%" alt="Demo POS" style="border-radius:10px;">
         </p>
       </td>
       <td width="50%" align="center" valign="top">
         <p align="center"><b>🔧 Gestión de Taller</b></p>
         <p align="center">
-          <img src="https://github.com/user-attachments/assets/566a7013-4206-476c-87f6-a316053857eb" width="90%" alt="Taller" style="border-radius:10px;">
+          <img src="assets/taller.gif" width="90%" alt="Demo Taller" style="border-radius:10px;">
         </p>
       </td>
     </tr>
@@ -90,13 +90,13 @@ El proyecto utiliza una arquitectura moderna y escalable:
       <td width="50%" align="center" valign="top">
         <p align="center"><b>🃏 Conciliación de Tarjetas</b></p>
         <p align="center">
-          <img src="https://github.com/user-attachments/assets/74676eb5-ad09-43ef-af3a-45317980f6c8" width="90%" alt="Tarjetas" style="border-radius:10px;">
+          <img src="assets/tarjetas.gif" width="90%" alt="Demo Tarjetas" style="border-radius:10px;">
         </p>
       </td>
       <td width="50%" align="center" valign="top">
         <p align="center"><b>⚙️ Configuración Admin</b></p>
         <p align="center">
-          <img src="https://github.com/user-attachments/assets/1e5b5663-ddab-4d62-be91-707449cd0eb1" width="90%" alt="Config" style="border-radius:10px;">
+          <img src="assets/config.gif" width="90%" alt="Demo Config" style="border-radius:10px;">
         </p>
       </td>
     </tr>
@@ -157,4 +157,5 @@ Si te interesa adquirir una licencia de uso para tu negocio o solicitar una demo
 <p align="center">Desarrollado con ❤️ para la optimización de negocios tecnológicos.</p>
 
 <p align="center"><b>Bester Servicio Técnico y Soluciones Digitales a medida</b> - Corrientes, Argentina 2025</p>
+
 
