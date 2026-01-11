@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/marioaug/mipos-bester-showcase">
-    <img src="/assets/logo.jpg" alt="Logo Bester" width="220">
+    <img src="assets/logo.jpg" alt="Logo Bester" width="220">
   </a>
 </p>
 
@@ -36,36 +36,14 @@ El sistema transforma la gestión manual en un flujo digital seguro, eliminando 
 
 El proyecto utiliza una arquitectura moderna y escalable:
 
-<p align="left">
-  <a href="https://reactjs.org/" target="_blank">
-    <img src="https://img.shields.io/badge/Frontend-React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React">
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,tailwind,nodejs,express,postgres,prisma,digitalocean,nginx&theme=dark" alt="Stack Tecnológico Animado" />
   </a>
-  <a href="https://tailwindcss.com/" target="_blank">
-    <img src="https://img.shields.io/badge/UI-Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind">
-  </a>
-
-  <a href="https://nodejs.org/" target="_blank">
-    <img src="https://img.shields.io/badge/Backend-Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="NodeJS">
-  </a>
-  <a href="https://expressjs.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Framework-Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express">
-  </a>
-
-  <a href="https://www.postgresql.org/" target="_blank">
-    <img src="https://img.shields.io/badge/Database-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
-  </a>
-  <a href="https://www.prisma.io/" target="_blank">
-    <img src="https://img.shields.io/badge/ORM-Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma">
-  </a>
-
-  <a href="https://www.digitalocean.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Cloud-DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white" alt="DigitalOcean">
-  </a>
-  <a href="https://pm2.keymetrics.io/" target="_blank">
-    <img src="https://img.shields.io/badge/Process_Manager-PM2-2B037A?style=for-the-badge&logo=pm2&logoColor=white" alt="PM2">
-  </a>
-</p>
-
+  <p>
+    <i>(React, Tailwind, Node.js, Express, PostgreSQL, Prisma, DigitalOcean + PM2)</i>
+  </p>
+</div>
 <br>
 
 <h2 align="center">📸 Vistazo al Sistema</h2>
@@ -157,5 +135,3 @@ Si te interesa adquirir una licencia de uso para tu negocio o solicitar una demo
 <p align="center">Desarrollado con ❤️ para la optimización de negocios tecnológicos.</p>
 
 <p align="center"><b>Bester Servicio Técnico y Soluciones Digitales a medida</b> - Corrientes, Argentina 2025</p>
-
-
