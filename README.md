@@ -70,28 +70,38 @@ El proyecto utiliza una arquitectura moderna y escalable:
 
 <h2 align="center">📸 Vistazo al Sistema</h2>
 
-<table width="100%" style="border: none;">
-  <tr>
-    <td width="50%" align="center" valign="top" style="border: none;">
-      <p align="center"><b>💳 Punto de Venta Ágil</b></p>
-      <img src="https://github.com/user-attachments/assets/bdc647b3-0dbd-4d03-81eb-6ca6c1f64f63" style="border-radius:10px; width: 100%;" alt="POS">
-    </td>
-    <td width="50%" align="center" valign="top" style="border: none;">
-      <p align="center"><b>🔧 Gestión de Taller</b></p>
-      <img src="https://github.com/user-attachments/assets/566a7013-4206-476c-87f6-a316053857eb" style="border-radius:10px; width: 100%;" alt="Taller">
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" align="center" valign="top" style="border: none;">
-      <p align="center"><b>🃏 Conciliación de Tarjetas</b></p>
-      <img src="https://github.com/user-attachments/assets/74676eb5-ad09-43ef-af3a-45317980f6c8" style="border-radius:10px; width: 100%;" alt="Tarjetas">
-    </td>
-    <td width="50%" align="center" valign="top" style="border: none;">
-      <p align="center"><b>⚙️ Configuración Admin</b></p>
-      <img src="https://github.com/user-attachments/assets/1e5b5663-ddab-4d62-be91-707449cd0eb1" style="border-radius:10px; width: 100%;" alt="Config">
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <table width="100%">
+    <tr>
+      <td width="50%" align="center" valign="top">
+        <p align="center"><b>💳 Punto de Venta Ágil</b></p>
+        <p align="center">
+          <img src="https://github.com/user-attachments/assets/bdc647b3-0dbd-4d03-81eb-6ca6c1f64f63" width="90%" alt="POS" style="border-radius:10px;">
+        </p>
+      </td>
+      <td width="50%" align="center" valign="top">
+        <p align="center"><b>🔧 Gestión de Taller</b></p>
+        <p align="center">
+          <img src="https://github.com/user-attachments/assets/566a7013-4206-476c-87f6-a316053857eb" width="90%" alt="Taller" style="border-radius:10px;">
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%" align="center" valign="top">
+        <p align="center"><b>🃏 Conciliación de Tarjetas</b></p>
+        <p align="center">
+          <img src="https://github.com/user-attachments/assets/74676eb5-ad09-43ef-af3a-45317980f6c8" width="90%" alt="Tarjetas" style="border-radius:10px;">
+        </p>
+      </td>
+      <td width="50%" align="center" valign="top">
+        <p align="center"><b>⚙️ Configuración Admin</b></p>
+        <p align="center">
+          <img src="https://github.com/user-attachments/assets/1e5b5663-ddab-4d62-be91-707449cd0eb1" width="90%" alt="Config" style="border-radius:10px;">
+        </p>
+      </td>
+    </tr>
+  </table>
+</div>
 
 <br>
 
@@ -147,3 +157,4 @@ Si te interesa adquirir una licencia de uso para tu negocio o solicitar una demo
 <p align="center">Desarrollado con ❤️ para la optimización de negocios tecnológicos.</p>
 
 <p align="center"><b>Bester Servicio Técnico y Soluciones Digitales a medida</b> - Corrientes, Argentina 2025</p>
+
