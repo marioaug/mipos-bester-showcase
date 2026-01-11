@@ -1,6 +1,6 @@
 <p align="center">
-  <a href="https://github.com/marioaug/mipos-bester">
-    <img src="frontend/public/assets/logo.jpg" alt="Logo Bester" width="220">
+  <a href="https://github.com/marioaug/mipos-bester-showcase">
+    <img src="/assets/logo.jpg" alt="Logo Bester" width="220">
   </a>
 </p>
 
@@ -141,3 +141,4 @@ Si te interesa adquirir una licencia de uso para tu negocio o solicitar una demo
 <p align="center">Desarrollado con ❤️ para la optimización de negocios tecnológicos.</p>
 
 <p align="center"><b>Bester Servicio Técnico y Soluciones Digitales a medida</b> - Corrientes, Argentina 2025</p>
+
