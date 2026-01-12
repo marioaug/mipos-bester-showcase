@@ -51,21 +51,28 @@ El proyecto utiliza una arquitectura moderna y escalable:
 <h2 align="center">📸 Vistazo al Sistema</h2>
 
 <div align="center">
-  
-  <p align="center">
-    <b>💳 Punto de Venta Ágil</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b>🔧 Gestión de Taller</b>
-    <br>
-    <img src="assets/pos.gif" height="250" alt="Demo POS" style="border-radius:10px; margin: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
-    <img src="assets/taller.gif" height="250" alt="Demo Taller" style="border-radius:10px; margin: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
-  </p>
-
-  <p align="center">
-    <b>🃏 Conciliación de Tarjetas</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b>⚙️ Configuración Admin</b>
-    <br>
-    <img src="assets/tarjetas.gif" height="250" alt="Demo Tarjetas" style="border-radius:10px; margin: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
-    <img src="assets/config.gif" height="250" alt="Demo Config" style="border-radius:10px; margin: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
-  </p>
-
+  <table border="0" style="width: 100%; max-width: 900px; margin-left: auto; margin-right: auto; border: none;">
+    <tr>
+      <td width="50%" align="center" style="padding: 10px; border: none;">
+        <p align="center"><b>💳 Punto de Venta Ágil</b></p>
+        <img src="assets/pos.gif" width="100%" alt="Demo POS" style="border-radius:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
+      </td>
+      <td width="50%" align="center" style="padding: 10px; border: none;">
+        <p align="center"><b>🔧 Gestión de Taller</b></p>
+        <img src="assets/taller.gif" width="100%" alt="Demo Taller" style="border-radius:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
+      </td>
+    </tr>
+    <tr>
+      <td width="50%" align="center" style="padding: 10px; border: none;">
+        <p align="center"><b>🃏 Conciliación de Tarjetas</b></p>
+        <img src="assets/tarjetas.gif" width="100%" alt="Demo Tarjetas" style="border-radius:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
+      </td>
+      <td width="50%" align="center" style="padding: 10px; border: none;">
+        <p align="center"><b>⚙️ Configuración Admin</b></p>
+        <img src="assets/config.gif" width="100%" alt="Demo Config" style="border-radius:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
+      </td>
+    </tr>
+  </table>
 </div>
 
 <br>
@@ -122,5 +129,6 @@ Si te interesa adquirir una licencia de uso para tu negocio o solicitar una demo
 <p align="center">Desarrollado con ❤️ para la optimización de negocios tecnológicos.</p>
 
 <p align="center"><b>Bester Servicio Técnico y Soluciones Digitales a medida</b> - Corrientes, Argentina 2025</p>
+
 
 
