@@ -51,28 +51,21 @@ El proyecto utiliza una arquitectura moderna y escalable:
 <h2 align="center">📸 Vistazo al Sistema</h2>
 
 <div align="center">
-  <table align="center" border="0" style="margin: 0 auto; border-collapse: collapse;">
-    <tr>
-      <td align="center" valign="top" style="padding: 15px;">
-        <p align="center"><b>💳 Punto de Venta Ágil</b></p>
-        <img src="assets/pos.gif" width="400" alt="Demo POS" style="border-radius:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
-      </td>
-      <td align="center" valign="top" style="padding: 15px;">
-        <p align="center"><b>🔧 Gestión de Taller</b></p>
-        <img src="assets/taller.gif" width="400" alt="Demo Taller" style="border-radius:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
-      </td>
-    </tr>
-    <tr>
-      <td align="center" valign="top" style="padding: 15px;">
-        <p align="center"><b>🃏 Conciliación de Tarjetas</b></p>
-        <img src="assets/tarjetas.gif" width="400" alt="Demo Tarjetas" style="border-radius:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
-      </td>
-      <td align="center" valign="top" style="padding: 15px;">
-        <p align="center"><b>⚙️ Configuración Admin</b></p>
-        <img src="assets/config.gif" width="400" alt="Demo Config" style="border-radius:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
-      </td>
-    </tr>
-  </table>
+  
+  <p align="center">
+    <b>💳 Punto de Venta Ágil</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b>🔧 Gestión de Taller</b>
+    <br>
+    <img src="assets/pos.gif" height="250" alt="Demo POS" style="border-radius:10px; margin: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
+    <img src="assets/taller.gif" height="250" alt="Demo Taller" style="border-radius:10px; margin: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
+  </p>
+
+  <p align="center">
+    <b>🃏 Conciliación de Tarjetas</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b>⚙️ Configuración Admin</b>
+    <br>
+    <img src="assets/tarjetas.gif" height="250" alt="Demo Tarjetas" style="border-radius:10px; margin: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
+    <img src="assets/config.gif" height="250" alt="Demo Config" style="border-radius:10px; margin: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
+  </p>
+
 </div>
 
 <br>
@@ -80,7 +73,7 @@ El proyecto utiliza una arquitectura moderna y escalable:
 ## 📈 Próximos Pasos (Roadmap)
 
 - [ ] **Reportes Avanzados:** Gráficos de rentabilidad mensual exportables a Power BI.
-- [ ] **Automatización:** Notificaciones directas vía Email/WhatsApp del estado de reparaciones.
+- [ ] **Facturación Electrónica:**  Conexión y configuración de certificados de ARCA para emisión de tks electrónicos.
 
 ## ⚙️ Instalación (Dev Mode)
 
@@ -129,4 +122,5 @@ Si te interesa adquirir una licencia de uso para tu negocio o solicitar una demo
 <p align="center">Desarrollado con ❤️ para la optimización de negocios tecnológicos.</p>
 
 <p align="center"><b>Bester Servicio Técnico y Soluciones Digitales a medida</b> - Corrientes, Argentina 2025</p>
+
 
