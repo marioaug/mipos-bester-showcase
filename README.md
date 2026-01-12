@@ -48,7 +48,7 @@ El proyecto utiliza una arquitectura moderna y escalable:
 
 <br>
 
-h2 align="center">📸 Vistazo al Sistema</h2>
+<h2 align="center">📸 Vistazo al Sistema</h2>
 
 <div align="center">
   <table border="0" style="display: table !important; width: auto !important; margin-left: auto !important; margin-right: auto !important; border: none; border-collapse: collapse;">
@@ -129,6 +129,7 @@ Si te interesa adquirir una licencia de uso para tu negocio o solicitar una demo
 <p align="center">Desarrollado con ❤️ para la optimización de negocios tecnológicos.</p>
 
 <p align="center"><b>Bester Servicio Técnico y Soluciones Digitales a medida</b> - Corrientes, Argentina 2025</p>
+
 
 
 
